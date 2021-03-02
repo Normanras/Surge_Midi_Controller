@@ -1,7 +1,7 @@
 # Surge_Midi_Controller
 Midi controller specifically designed with hardware and software for the open-source Surge Synthesizer.
 
-Huge kudos to a couple of folks:
+First, kudos and thanks:
 * the Surge Synthesizer team and all of their hardwork and updates. Please check out their work at: [Surge Synth Github](https://github.com/surge-synthesizer)
 * Pieter ([tttapa](https://github.com/tttapa)) and his [Control Surface Library](https://github.com/tttapa/Control-Surface) which is a central library used in this project.
 
