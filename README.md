@@ -1,7 +1,9 @@
 # Surge_Midi_Controller
 Midi controller specifically designed with hardware and software for the open-source Surge Synthesizer.
 
-Huge kudos to the Surge Synthesizer team and all of their hardwork and updates. Please check out their work at: [Surge Synth Github](https://github.com/surge-synthesizer)
+Huge kudos to a couple of folks:
+* the Surge Synthesizer team and all of their hardwork and updates. Please check out their work at: [Surge Synth Github](https://github.com/surge-synthesizer)
+* Pieter ([tttapa](https://github.com/tttapa)) and his [Control Surface Library](https://github.com/tttapa/Control-Surface) which is a central library used in this project.
 
 Update 3/2/2020:
 
@@ -11,6 +13,8 @@ This project is about a month old, and a bit slow going since my son is only a f
 * LED will light up when each bank (corresponding to each oscillator) is selected
 * Your screen does NOT need to show the highlighted oscillator - the bank will change regardless of what is on the screen, allowing sound manipulation with minimal mouse clicking. 
 * 3 pots using analog pins A1, A2, and A3, are permanent (non-banked) analog inputs for the main volume and FX 1 and FX 2 (top right of the screen). 
+* This image is of the current prototype for the oscillators. You can see the 7 faders, 3 pots, and 3 LEDs. I'm trying to add each section in "modules" to make it more manageable.
+<img src="https://i.imgur.com/YowRWBa.jpg" width="450" height="500" />
 
 Plans/Next Steps:
 * mux2 file is in progress and may be buggy/non-operational
